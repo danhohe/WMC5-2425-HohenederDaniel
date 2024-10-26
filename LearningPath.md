@@ -1,6 +1,5 @@
 # Learning Path - WMC5
 
-
 1. Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
 
    | Task      | Duration| Progress (time or %) | Completed |
